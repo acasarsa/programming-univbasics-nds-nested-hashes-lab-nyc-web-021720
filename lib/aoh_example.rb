@@ -25,6 +25,7 @@ def literal_aoh
     { name:  "Bruce Green", occupation: "Fan of Mildred" }
   ]
   arr
+  
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
